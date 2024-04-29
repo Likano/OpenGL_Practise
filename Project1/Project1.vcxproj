@@ -146,7 +146,7 @@
     <ClCompile Include="VBO.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\Downloads\images.png" />
+    <Image Include="pop_cat.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="default.frag" />

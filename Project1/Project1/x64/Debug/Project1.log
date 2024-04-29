@@ -1,5 +1,3 @@
 ﻿  Main.cpp
-  VAO.cpp
-  Generating Code...
-C:\Users\ZAKES-COOL\Documents\OpenGL C++\Project1\VAO.cpp(15,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+C:\Users\ZAKES-COOL\Documents\OpenGL C++\Project1\Main.cpp(143,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
   Project1.vcxproj -> C:\Users\ZAKES-COOL\Documents\OpenGL C++\Project1\x64\Debug\Project1.exe

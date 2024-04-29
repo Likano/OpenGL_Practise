@@ -44,7 +44,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\Downloads\images.png">
+    <Image Include="pop_cat.png">
       <Filter>Source Files\Texture</Filter>
     </Image>
   </ItemGroup>
